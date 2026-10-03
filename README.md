@@ -2,6 +2,8 @@
 
 A hands-free timer and log for isometric holds (wall sits, planks, dead hangs). No account, no server. Your history stays in your own browser.
 
+**Use it:** https://tthompson0808.github.io/iso-tracker/ (open in Safari, Share, Add to Home Screen)
+
 ## Want to change something? Ask an AI.
 
 You do not need to know how to code.
